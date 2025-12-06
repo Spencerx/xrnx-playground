@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>net.artfwo.Slice28</Id>
+  <Version>0.1</Version>
+  <Author>Artem Popov [art@artfwo.net]</Author>
+  <Name>Slice28</Name>
+  <Category>Sample Editor</Category>
+  <Description>Slice any sample to 8 pieces.</Description>
+</RenoiseScriptingTool>
