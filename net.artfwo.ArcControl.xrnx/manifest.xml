@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>net.artfwo.ArcControl</Id>
+  <Version>0.1</Version>
+  <Author>Artem Popov [art@artfwo.net]</Author>
+  <Name>ArcControl</Name>
+  <Category>OSC Controllers</Category>
+  <Description>Sync active instrument macro values with arc controller app.</Description>
+</RenoiseScriptingTool>
