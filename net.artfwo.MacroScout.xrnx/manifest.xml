@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <Id>net.artfwo.MacroScout</Id>
+  <Version>0.1</Version>
+  <Author>Artem Popov [art@artfwo.net]</Author>
+  <Name>MacroScout</Name>
+  <Category>OSC Controllers</Category>
+  <Description>Provides an OSC socket for querying instrument macros from an external app.</Description>
+</RenoiseScriptingTool>
